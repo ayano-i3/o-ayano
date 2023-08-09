@@ -1,5 +1,5 @@
 - 👋 Hi, I’m o-ayano
-- 🌱 I’m currently learning Java, Kotlin
+- 🌱 I’m currently learning Java, Kotlin, Swift
 
 <p align="left"> 
   <img alt="Top Langs" height="200px" width="500px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayano-i3&layout=compact&show_icons=true&theme=dracula" />
